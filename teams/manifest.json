@@ -1,0 +1,24 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.16",
+  "version": "1.0.0",
+  "id": "REPLACE_WITH_YOUR_GUID",
+  "packageName": "com.yourorg.policybot",
+  "name": { "short": "Policy Bot" },
+  "description": {
+    "short": "Search policies & KBs with links.",
+    "full": "Ask about IT/HR/Facilities. Answers include citations and source links."
+  },
+  "developer": {
+    "name": "Your Org",
+    "websiteUrl": "https://example.com",
+    "privacyUrl": "https://example.com/privacy",
+    "termsOfUseUrl": "https://example.com/terms"
+  },
+  "bots": [{
+    "botId": "REPLACE_WITH_BOT_APP_ID",
+    "scopes": ["personal", "team", "groupchat"]
+  }],
+  "icons": { "outline": "outline.png", "color": "color.png" },
+  "accentColor": "#4F46E5"
+}

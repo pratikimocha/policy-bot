@@ -1,0 +1,20 @@
+[
+  {
+    "title": "WFO Policy",
+    "page": 1,
+    "url": "https://<tenant>.sharepoint.com/sites/Policies/Shared%20Documents/workforsuccess.pdf#page=1",
+    "content": "Employees must attend at least 12 working days per month in the office, with a minimum of 7 hours on-site for each counted day. Attendance is captured via RFID swipes."
+  },
+  {
+    "title": "Lost Laptop Procedure",
+    "page": 1,
+    "url": "https://<tenant>.sharepoint.com/sites/Policies/Shared%20Documents/EndpointSecuritySOP.pdf#page=1",
+    "content": "Report immediately to IT/SecOps and your manager. If the device is enrolled in Intune/MDM, request remote lock/wipe. Change your M365 password and sign out of all sessions."
+  },
+  {
+    "title": "VPN - Common Errors",
+    "page": 1,
+    "url": "https://<tenant>.sharepoint.com/sites/Policies/Shared%20Documents/VPN_SOP.pdf#page=1",
+    "content": "Verify internet connectivity first. Confirm the correct portal URL. Approve MFA prompts. Update the VPN client to the approved version. Flush DNS if name resolution fails."
+  }
+]
